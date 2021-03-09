@@ -23,5 +23,5 @@
 
 **[출처]**
 
-[한국산업기술대학교 컴퓨터공학부](www.kpu.ac.kr)
+[한국산업기술대학교 컴퓨터공학부](http://www.kpu.ac.kr/index.do?sso=ok)
 
