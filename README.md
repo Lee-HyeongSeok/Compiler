@@ -13,7 +13,13 @@
   - 컴파일러의 일반적인 구조
   - 컴파일러 자동화 도구<br> 
 
-- **#2 주차 []**
+- **#2 주차 [형식 언어]**
+
+  ​    [📃 컴파일러 2주차](https://github.com/Lee-HyeongSeok/Compiler/blob/master/%EA%B0%95%EC%9D%98%EB%82%B4%EC%9A%A9/2%EC%A3%BC%EC%B0%A8.md)<br> 
+
+  - 언어(Language)
+  - 문법(Grammar)
+  - 문법의 분류
 
 
 
