@@ -39,7 +39,21 @@
   - 어휘분석기의 구현
   - 렉스(Lex)<br> 
 
-  
+- **#5 주차[context-free 문법]**
+
+     [📃 컴파일러 5주차](https://github.com/Lee-HyeongSeok/Compiler/blob/master/%EA%B0%95%EC%9D%98%EB%82%B4%EC%9A%A9/5%EC%A3%BC%EC%B0%A8.md)<br> 
+
+     - 촘스키 Type 2 문법(CFG; Context Free Grammar)
+     - 유도(Derivation)
+       - 좌단 유도, Left Most Derivation
+       - 우단 유도, Right Most Derivation
+     - 유도 트리(Derivation Tree)
+     - Parse
+       - Left Parse
+       - Right Parse
+       - Ambiguous 문제
+     - CFG 표기법
+       - 문법 표기법
 
 
 
